@@ -217,7 +217,7 @@ section, footer, header{
 	font:normal 70px/1 'Antic Slab','Segoe UI',sans-serif;
 	background:rgba(0,0,0,0.3);
 	white-space: nowrap;
-	padding:10px 5px 5px 20px;
+	padding:
 	position:relative;
 	right:-60px;
 	z-index:10;
