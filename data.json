@@ -5,6 +5,7 @@
         "headline":"Harry Brorby",
         "type":"default",
 		"startDate":"2009,1",
+		"text":"<i><span class='c1'>Designer</span> & <span class='c2'>Developer</span></i>",
 		"asset":
         {
             "media":"assets/img/notes.png",
