@@ -2,7 +2,7 @@
 {
     "timeline":
     {
-        "headline":"Johnny B Goode",
+        "headline":"Harry Brorby",
         "type":"default",
 		"startDate":"2009,1",
 		"text":"<i><span class='c1'>Designer</span> & <span class='c2'>Developer</span></i>",
@@ -65,6 +65,17 @@
                 {
                     "media":"assets/img/shots/pet___you.jpg",
                     "credit":"<a href='http://dribbble.com/shots/444003-Pet-You'>by Nikita Lebedev</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,4",
+                "headline":"Developed an iPad newspaper application",
+                "text":"It was a challenge to create both the design and code in a week.",
+                "asset":
+                {
+                    "media":"assets/img/shots/proto_v4_decoupe_2.jpg",
+                    "credit":"<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
                     "caption":""
                 }
             },
