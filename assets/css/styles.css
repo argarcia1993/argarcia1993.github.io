@@ -47,7 +47,7 @@ section, footer, header{
 
 
 #timeline{
-	background:none;
+	background:url('../img/page_bg.jpg')repeat;
 }
 
 .slider .slider-container-mask .slider-container{
