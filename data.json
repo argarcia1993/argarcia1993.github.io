@@ -4,8 +4,8 @@
     {
         "headline":"Harry Brorby",
         "type":"default",
-		"startDate":"2009,1",
-		"text":"<i><span class='D7D7D7'>1927</span> - <span class='D7D7D7'>2009</span></i>",
+		"startDate":"1943",
+		"text":"<i><span class='D7D7D7'>1927</span> - <span class='D7D7D7'>1943</span></i>",
 		"asset":
         {
             "media":"assets/img/notes.png",
@@ -14,7 +14,7 @@
         },
         "date": [
             {
-                "startDate":"2009,2",
+                "startDate":"1943",
                 "headline":"My first experiment in time-lapse photography",
                 "text":"Nature at its finest in this video.",
                 "asset":
@@ -25,7 +25,7 @@
                 }
             },
             {
-                "startDate":"2009,5",
+                "startDate":"1943",
                 "headline":"Redesign of my portfolio",
                 "text":"",
                 "asset":
@@ -36,7 +36,7 @@
                 }
             },
             {
-                "startDate":"2009,7",
+                "startDate":"1943",
                 "headline":"Another time-lapse experiment",
                 "text":"",
                 "asset":
@@ -47,7 +47,7 @@
                 }
             },
             {
-                "startDate":"2009,10",
+                "startDate":"1943",
                 "headline":"Developed a Gmail Client",
                 "text":"",
                 "asset":
