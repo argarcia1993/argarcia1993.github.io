@@ -26,13 +26,13 @@
             },
             {
                 "startDate":"1947",
-                "headline":"Redesign of my portfolio",
+                "headline":"",
                 "text":"Painted Ritchie Court (the view from the upstairs window of his Chicago house) which was eventually selected for The American Show at the Chicago Art Institute and won a prize.",
                 "asset":
                 {
-                    "media":"assets/img/shots/sidebar_s3.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
-                    "caption":""
+                    "media":"",//
+                    "credit":"",//
+                    "caption":""//
                 }
             },
             {
