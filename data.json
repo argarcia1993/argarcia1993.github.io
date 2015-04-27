@@ -5,7 +5,7 @@
         "headline":"Harry Brorby",
         "type":"default",
 		"startDate":"1927",
-		"text":"<i><span class='D7D7D7'></span><span class='D7D7D7'></span>",
+		"text":"<span class='D7D7D7'></span><span class='D7D7D7'></span>",
 		"asset":
         {
             "media":"assets/img/brorby.jpg",
