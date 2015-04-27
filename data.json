@@ -16,7 +16,7 @@
             {
                 "startDate":"1943",
                 "headline":"Harvard: Pennsylvania Academy",
-                "text":".",
+                "text":"",
                 "asset":
                 {
                     "media":"",
@@ -74,7 +74,7 @@
                 "text":"It was a challenge to create both the design and code in a week.",
                 "asset":
                 {
-                    "media":"",//"assets/img/shots/proto_v4_decoupe_2.jpg",
+                    "media":"assets/img/shots/proto_v4_decoupe_2.jpg",
                     "credit":"<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
                     "caption":""
                 }
