@@ -37,7 +37,7 @@
             },
             {
                 "startDate":"1951",
-                "headline":"Another time-lapse experiment",
+                "headline":"",
                 "text":"University of Iowa, MFA; Lasansky",
                 "asset":
                 {
@@ -47,13 +47,13 @@
                 }
             },
             {
-                "startDate":"2009,10",
-                "headline":"Developed a Gmail Client",
-                "text":"",
+                "startDate":"1955",
+                "headline":"Army, at Albuquerque",
+                "text":"Found cottonwood roots on the banks of the Rio Grande River and carved the Dancers heads.",
                 "asset":
                 {
-                    "media":"assets/img/shots/shot_1298590416.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/120088-Gmail-Pokki-Final-Ui'>by Justalab</a>",
+                    "media":"",
+                    "credit":"",
                     "caption":""
                 }
             },
