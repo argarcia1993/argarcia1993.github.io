@@ -91,23 +91,23 @@
                 }
             },
             {
-                "startDate":"2010,8",
-                "headline":"Illustration for a big client.",
+                "startDate":"1969",
+                "headline":"Won a top prize at The Chicago Art Institute “Chicago Show”",
                 "text":"",
                 "asset":
                 {
-                    "media":"assets/img/shots/chameleon.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/366400-Chameleon'>Chameleon by Mike</a>",
+                    "media":"",
+                    "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2010,12",
-                "headline":"Advert for Volkswagen",
-                "text":"Created the website for their new advertising campaign.",
+                "startDate":"1971",
+                "headline":"Tuscon, Arizona",
+                "text":"Translated the Yellow Series into watercolors, these expressionistic paintings were called Burning Images",
                 "asset":
                 {
-                    "media":"http://www.youtube.com/watch?v=0-9EYFJ4Clo",
+                    "media":"",
                     "credit":"",
                     "caption":""
                 }
