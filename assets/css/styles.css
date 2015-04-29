@@ -52,7 +52,7 @@ section, footer, header{
 	background:url('../img/page_bg.jpg')repeat;
 }
 .slider .slider-container-mask{
-	background-color: rgb(#FA8C06);
+	background-color: rgb(#FA8C06) !important;
 }
 
 .slider .slider-container-mask .slider-container{
