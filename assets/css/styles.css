@@ -45,7 +45,6 @@ section, footer, header{
 	Styling the timeline
 -----------------------------*/
 .D7D7D7{
-	outline-color: #F6F4F1;
 	margin-left: 125px !important;
 }
 
@@ -176,7 +175,7 @@ section, footer, header{
 /* Color of the headings */
 
 #timeline h1, #timeline h2, #timeline h3, #timeline h4, #timeline h5, #timeline h6{
-	color:#ddd;
+	color:#FCF8F1;
 }
 
 /* The loading screen */
