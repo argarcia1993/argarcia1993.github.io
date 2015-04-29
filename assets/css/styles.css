@@ -44,7 +44,9 @@ section, footer, header{
 /*----------------------------
 	Styling the timeline
 -----------------------------*/
-
+.D7D7D7{
+	text-align: center;
+}
 
 #timeline{
 	background:url('../img/page_bg.jpg')repeat;
