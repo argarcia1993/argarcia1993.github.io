@@ -48,11 +48,12 @@ section, footer, header{
 	margin-left: 125px !important;
 }
 
+.slider{
+	background: blue;
+}
+
 #timeline{
 	background:url('../img/page_bg.jpg')repeat;
-}
-.slider .slider-container-mask{
-	background-color: blue !important;
 }
 
 .slider .slider-container-mask .slider-container{
