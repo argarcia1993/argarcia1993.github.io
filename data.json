@@ -96,7 +96,7 @@
                 "text":" Art inclded the Yellow Series oils",
                 "asset":
                 {
-                    "media":"assets/image/yellowseries.jpg",
+                    "media":"assets/img/yellowseries.jpg",
                     "credit":"",
                     "caption":""
                 }
@@ -105,17 +105,6 @@
                 "startDate":"1954",
                 "headline":"Began collecting American Southwest primitive art",
                 "text":"Began collecting American Southwest primitive art (including New Mexican Santos, early historic Pueblo pottery, prehistoric pottery from Arizona and New Mexico, early Navajo and Rio Grande Blankets as well as some Oceanic pieces.",
-                "asset":
-                {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"1969",
-                "headline":"The Chicago Art Institute biennial",
-                "text":"",
                 "asset":
                 {
                     "media":"",
