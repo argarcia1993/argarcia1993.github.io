@@ -49,7 +49,7 @@ section, footer, header{
 }
 
 .slider{
-	background: #5A4F41;
+	background: #FFFFFF;
 }
 
 #timeline{
@@ -204,7 +204,7 @@ section, footer, header{
 }
 
 #timeline .slider-item h2{
-	color:#FAF9F8;
+	color:#fff;
 }
 
 #timeline .slider-item p{
