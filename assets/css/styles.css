@@ -45,7 +45,7 @@ section, footer, header{
 	Styling the timeline
 -----------------------------*/
 .D7D7D7{
-	text-align: center;
+	text-align: center !important;
 }
 
 #timeline{
